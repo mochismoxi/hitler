@@ -1,0 +1,99 @@
+body{
+	background-color: #C0C0C0;
+}
+#hitler{
+	float: left;
+	width: 0px;
+
+	
+}
+.titulo{
+	text-align: center; 
+	  font-size: 1.7em;
+	 text-shadow: 4px 4px 4px #2D93B5;
+}
+.titulo2{
+	   
+    font-family: Museo Sans\ 500,sans-serif;
+    font-size: 1.4em;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 15px 15px 10px;
+    text-align: left;
+     text-align: justify;
+text-shadow: 8px 8px 6px black;
+
+}
+.titulo3{
+		   font-family: Museo Sans\ 500,sans-serif;
+    font-size: 1.4em;
+    margin: 0 auto;
+    max-width: 800px;
+  
+    text-align: left;;
+	 text-shadow: 4px 4px 4px #2D93B5;
+}
+.table {
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse;
+text-shadow: 8px 8px 6px black;
+
+}
+
+#imagen{
+	float: left;
+	width: 275px;
+}
+ .card{
+            background-color: #EBE1C9;
+            border: 1px ;           
+            box-shadow: 2px 2px 8px 4px #FFFFFF;
+            font-family: sans-serif;
+            margin: 80px;
+            width: 320px; 
+           border-radius: 15px;
+        }
+        .card .titulo{
+            font-size: 24px;
+            padding: 10px 10px 0 10px;
+            text-align: center;
+
+        }
+        .card .cuerpo{
+            padding: 10px;
+            text-align: center;
+           
+
+        }
+        .card .pie{
+            
+            border-radius: 0 0 15px 15px;
+            padding: 10px;
+            position: relative;
+            text-align: center;
+           
+}
+.pueblo{
+	font-family: Museo Sans\ 500,sans-serif;
+    font-size: 1.4em;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 15px 15px 10px;
+    text-align: left;
+    text-align: justify;
+
+}
+.cuadrado{
+	width: 800px;
+	height: 650px;
+	left: 525px;
+	background: turquoise;
+position: relative;
+	text-shadow: 4px 4px 4px #2D93B5;
+	  box-shadow: 7px 3px 15px #512A08;
+	   
+   
+}
+
